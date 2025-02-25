@@ -3,5 +3,5 @@ Code repository for Harry Wiffen's Project IV: _Stokes and the Brinkmanlets_, fo
 
 For code used in creating graphs for the poster, see Poster_code.
 
-For raw .npy simulation data, see
+Simulation data saved in npy_output_files, for use in plotting.
 
