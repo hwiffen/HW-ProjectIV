@@ -53,8 +53,6 @@ def deriv_func(t, r):
     H1_vals = H1(r_abs)
     H2_vals = H2(r_abs)
 
-    r_dot_r = np.einsum("ijk,ijk->ij", r_ij, r_ij) 
-
     vel_x = -r_ij[:, :, 0] * r_ij[:, :, 2] * H2_vals
     vel_y = -r_ij[:, :, 1] * r_ij[:, :, 2] * H2_vals
     vel_z = -H1_vals - (r_ij[:, :, 2] ** 2) * H2_vals
