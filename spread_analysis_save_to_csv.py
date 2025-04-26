@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 
-## Set parameters to align with a completed simulation:
+####################################################################################
+"""Parameters to determine which simulation to plot:"""
 
 N0 = 500  # Number of particles
 R = 1  # Initial sphere radius
@@ -12,6 +13,7 @@ Brinkman = False # Set to True for Brinkman flow
 Magnetic = True # Set to True for magntised flow
 
 t = t_span[1]
+####################################################################################
 
 # Load simulation results from .npy files:
 if Brinkman:
