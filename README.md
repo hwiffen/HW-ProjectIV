@@ -1,7 +1,12 @@
 # HW-ProjectIV
-Code repository for Harry Wiffen's Project IV: _Stokes and the Brinkmanlets_, for the degree of MMath at Durham University.
 
-For code used in creating graphs for the poster, see Poster_code.
+**Code repository for Project IV: *Stokes and the Brinkmanlets.***
 
-Simulation data saved in npy_output_files, for use in plotting.
+**By Harry Wiffen, for the degree of Master of Mathematics at Durham University.**
+
+This repository contains all code used in ***Stokes and the Brinkmanlets***. All code was created in \texttt{Python} or \textt{R}
+
+## Folders:
+
+### Simulation_scripts
 
