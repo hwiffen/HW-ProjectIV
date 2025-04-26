@@ -20,9 +20,9 @@ Simulation results from all models. Can be imported into visualisation scripts.
 
 **Note:** Many longer simulations are excluded, due to file size limitations.
 
-### Simulation_scripts 
+### [Simulation_scripts](Simulation_scripts) 
 
-**optimised_stokes_save_to_npy.py** - After selecting simulation parameters, this script simulates a falling cloud in a Stokes flow, saving the results as a .npy file.
+**[optimised_stokes_save_to_npy.py](Simulation_scripts/optimised_stokes_save_to_npy.py)** - After selecting simulation parameters, this script simulates a falling cloud in a Stokes flow, saving the results as a .npy file.
 
 **optimised_brinkman_save_to_npy.py** - After selecting simulation parameters, this script simulates a falling cloud in a Brinkman flow, saving the results as a .npy file.
 
@@ -30,7 +30,7 @@ Simulation results from all models. Can be imported into visualisation scripts.
 
 **articulated_body_save_to_npy.py** - After selecting simulation parameters, this script simulates a falling 3D articulated body in a Brinkman flow, saving the results as a .npy file.
 
-### Main_visualisation_scripts
+### [Main_visualisation_scripts](Main_visualisation_scripts)
 
 In both of these scripts, simulation parameters must be specified. These inputted values must align with a completed simulation. The .npy file from this simulation is then read in.
 
