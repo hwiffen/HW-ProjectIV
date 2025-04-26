@@ -14,7 +14,7 @@ Throughout, consistent colour maps are used to distinguish different set of simu
 
 ## Folders:
 
-### npy_output_files
+### [npy_output_files](main/npy_output_files)
 
 Simulation results from all models. Can be imported into visualisation scripts.
 
