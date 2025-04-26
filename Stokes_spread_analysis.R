@@ -1,3 +1,8 @@
+library(ggplot2)
+library(dplyr)
+remotes::install_github("jonocarroll/ggeasy")
+library(ggeasy)
+
 #######################################################################################
 
 ### Local linear regression estimator:
