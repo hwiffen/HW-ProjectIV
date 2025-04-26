@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
-library(ggeasy)
 remotes::install_github("jonocarroll/ggeasy")
+library(ggeasy)
 
 ## Create a dataframe of Gaussian blobs:
 x_vals <- seq(-0.1, 0.1, length.out = 1000)
