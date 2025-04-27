@@ -17,9 +17,19 @@ Consistent colour maps are used throughout to distinguish simulation types (from
 
 ## Folder Structure
 
+---
+
+### [`HTML_interactive_plots/`](HTML_interactive_plots)
+
+3D interactive simulation results, saved as `.HTML` files.
+
+> **Note:** Only one plot of each simulation type is included, due to GitHub file size limits. Any other plots can be produced directly using **[`interactive_online_plots.py`](Main_visualisation_scripts/interactive_online_plots.py)**.
+
+---
+
 ### [`npy_output_files/`](npy_output_files)
 
-Simulation results from all models, saved as `.npy` files. Can be imported into visualisation scripts.
+Raw simulation results from all models, saved as `.npy` files. Can be imported into visualisation scripts.
 
 > **Note:** Many longer simulations are excluded due to GitHub file size limits.
 
