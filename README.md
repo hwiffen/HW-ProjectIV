@@ -21,7 +21,6 @@ Consistent colour maps are used throughout to distinguish simulation types (from
 
 ## Folder Structure
 
----
 
 ### [`HTML_interactive_plots/`](HTML_interactive_plots)
 
