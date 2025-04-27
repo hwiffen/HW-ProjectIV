@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Citation file."
+title: "HW-ProjectIV: Stokes and the Brinkmanlets"
+authors:
+  - family-names: Wiffen
+    given-names: Harry
+    affiliation: Durham University
+date-released: 2025-04-26
+version: "1.0.0"
+repository-code: "https://github.com/hwiffen/HW-ProjectIV"
+license: "MIT"
+abstract: "Code repository for Project IV of the Master of Mathematics degree at Durham University. Includes simulation and analysis scripts related to Stokes flows, Brinkman flows, and magnetised flows."
