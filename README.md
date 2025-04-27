@@ -34,7 +34,7 @@ Consistent colour maps are used throughout to distinguish simulation types (from
 
 Raw simulation results from all models, saved as `.npy` files. Can be imported into visualisation scripts.
 
-> **Note:** Many longer simulations are excluded due to GitHub file size limits.
+> **Note:** Many longer simulations are excluded, due to GitHub file size limits.
 
 ---
 
