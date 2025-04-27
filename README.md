@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/hwiffen/HW-ProjectIV)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![Made with R](https://img.shields.io/badge/Made%20with-R-1f425f)
 
 # HW-ProjectIV
 
