@@ -24,7 +24,7 @@ Consistent colour maps are used throughout to distinguish simulation types (from
 
 ### [`HTML_interactive_plots/`](HTML_interactive_plots)
 
-3D interactive simulation results, saved as `.HTML` files.
+3D interactive simulation results, saved as `.HTML` files. Files were written using `write_html` from the `plotly` package.
 
 > **Note:** Only one plot of each simulation type is included, due to GitHub file size limits. Any other plots can be produced directly using **[`interactive_online_plots.py`](Main_visualisation_scripts/interactive_online_plots.py)**.
 
