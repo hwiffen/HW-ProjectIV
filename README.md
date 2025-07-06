@@ -5,9 +5,11 @@
 
 # HW-ProjectIV
 
-**Code repository by Harry Wiffen for Project IV: *Stokes and the Brinkmanlets*, submitted for the degree of Master of Mathematics at Durham University.**
+**Repository by Harry Wiffen for Project IV: *Stokes and the Brinkmanlets*, submitted for the degree of Master of Mathematics at Durham University.**
 
 This repository contains all code used in ***Stokes and the Brinkmanlets***. Code is written in **`Python`** and **`R`**.
+
+The complete dissertation report can be found at [`Stokes_and_the_Brinkmanlets.pdf`](Stokes_and_the_Brinkmanlets.pdf)
 
 ---
 
